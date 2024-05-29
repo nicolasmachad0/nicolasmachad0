@@ -5,6 +5,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasmachad0&show_icons=true&theme=radical)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasmachad0&theme=blue-green)
+
 ## Linguagens que utilizo no meu dia-a-dia: 👨‍💻
 
 <div style="display: inline_block">
