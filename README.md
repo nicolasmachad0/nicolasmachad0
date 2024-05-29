@@ -5,4 +5,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasmachad0&show_icons=true&theme=radical)
 
+## Linguagens que utilizo no meu dia-a-dia
 
+<div style="display: inline_block"><br/>
+<img aling="center" alt="html5" scr="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+</div>
