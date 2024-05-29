@@ -5,8 +5,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasmachad0&show_icons=true&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasmachad0&theme=blue-green)
-
 ## Linguagens que utilizo no meu dia-a-dia: 👨‍💻
 
 <div style="display: inline_block">
@@ -19,15 +17,24 @@
   
   <br/><B>BACK-END<b/>
   
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 
   <br/><B>BANDO DE DADOS<b/>
-
+  
+  <img align="center" alt="Python" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  
   <br/><B>VERSIONAMENTO<b/>
+
+  <img align="center" alt="Python" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
   <br/><B>NUVEM<b/>
 
-  <br/><B>SISTEMAS OPERACIONAIS<b/>
+  <img align="center" alt="zure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 
+  <br/><B>SISTEMAS OPERACIONAIS<b/>
+  
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> 
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white" />
 
 </div><br/>
 
