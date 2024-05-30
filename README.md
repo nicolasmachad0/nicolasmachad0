@@ -58,3 +58,12 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-machado-foga%C3%A7a-70607a248/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicolasmachad0)
 <div/>
+  
+<div align="center">
+<br><p align="centre"><b>Contador de visitante</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/nicolasmachad0/count.svg" /></p> 
+<br>
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0767ab&height=120&section=footer"/>
