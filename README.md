@@ -8,11 +8,7 @@
   <h2>Olá, eu sou o Nicolas Machado Fogaça! 👋</h2>
 </div>
 
-<h2>Contatos</h2>
 
-![Instagram](https://www.instagram.com/n.machad0/)
-![Linkedin](https://www.linkedin.com/in/nicolas-machado-foga%C3%A7a-70607a248/)
-![GitHub](https://github.com/nicolasmachad0)
 
 ##
 
@@ -48,3 +44,11 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white" />
 
 </div><br/>
+
+<div align="center">
+<h2>Contatos</h2>
+
+![Instagram](https://www.instagram.com/n.machad0/)
+![Linkedin](https://www.linkedin.com/in/nicolas-machado-foga%C3%A7a-70607a248/)
+![GitHub](https://github.com/nicolasmachad0)
+<div/>
