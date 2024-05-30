@@ -1,11 +1,6 @@
 <div align="center"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3865D0&height=120&section=header"/>
-  
-<img width="40%" src="https://github.com/bruniibs/bruniibs/assets/128152530/d4431994-a028-4a4c-82f4-da5fa5a2ac19" alt="Greetings" align="center">      <hr style="border: 2px solid black;">
 
 ## Olá, eu sou o Nicolas Machado Fogaça! 👋
-
-![e426702edf874b181aced1e2fa5c6cde](https://github.com/nicolasmachad0/nicolasmachad0/assets/124478422/a32b06ed-10f9-4780-bc47-ae1ad377f609)
-
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/n.machad0/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-machado-foga%C3%A7a-70607a248/)
