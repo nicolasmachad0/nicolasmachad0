@@ -8,6 +8,12 @@
   <h2>Olá, eu sou o Nicolas Machado Fogaça! 👋</h2>
 </div>
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nicolasmachad0&show_icons=true&count_private=true&hide_border=true&title_color=3865D0&icon_color=7B7979&text_color=C0BDBD&bg_color=0d1117" alt="nicolasmachad0" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasmachad0&layout=compact&hide_border=true&title_color=3865D0&text_color=C0BDBD&bg_color=0d1117" />
+  <br>
+
+
 ## Conhecimentos que utilizo no meu dia-a-dia: 👨‍💻
 
 <div style="display: inline_block">
