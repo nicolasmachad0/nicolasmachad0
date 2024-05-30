@@ -4,8 +4,9 @@
 
 </a></div>
 
-
-## Olá, eu sou o Nicolas Machado Fogaça! 👋
+<div align="center">
+  <h2>Olá, eu sou o Nicolas Machado Fogaça! 👋</h2>
+</div>
 
 <h2>Contatos</h2>
 
