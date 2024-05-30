@@ -1,6 +1,7 @@
 <div align="center"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3865D0&height=120&section=header"/>
 
-<img width="40%" src="https://github.com/nicolasmachad0/nicolasmachad0/assets/124478422/536335b0-5ce5-4ae9-9eca-40ee4cbb6fba" alt="Greetings" align="center">      <hr style="border: 2px solid black;">
+<img width="40%" src="https://github.com/nicolasmachad0/nicolasmachad0/assets/124478422/536335b0-5ce5-4ae9-9eca-40ee4cbb6fba" alt="Greetings" align="center"><hr style="border: 2px solid black;"> 
+<div/>
 
 ## Olá, eu sou o Nicolas Machado Fogaça! 👋
 
