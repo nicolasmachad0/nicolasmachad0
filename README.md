@@ -1,6 +1,6 @@
 <div align="center"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=33cc33"/>
   
-<img width="40%" src="https://github.com/nicolasmachad0/nicolasmachad0/assets/124478422/7584cb92-460a-4521-96a9-49c0eb149257" alt="Zoro" align="center"><hr style="border: 2px solid black;">
+<img width="40%" src="https://github.com/nicolasmachad0/nicolasmachad0/assets/124478422/58961bd4-fde0-467c-8013-883cdea943df" alt="Zoro" align="center"><hr style="border: 2px solid black;">
 
 </a></div>
 
