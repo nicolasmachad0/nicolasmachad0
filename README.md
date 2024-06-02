@@ -16,7 +16,7 @@
 
 </div>
    
-## Conhecimentos que utilizo no meu dia-a-dia: 👨‍💻
+## 👨‍💻 Habilidades: 
 
 <div style="display: inline_block">
 
