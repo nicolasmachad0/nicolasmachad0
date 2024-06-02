@@ -12,7 +12,14 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nicolasmachad0&show_icons=true&count_private=true&hide_border=true&title_color=33cc33&icon_color=7B7979&text_color=CDE4AD&bg_color=0d1117" alt="nicolasmachad0" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasmachad0&layout=compact&hide_border=true&title_color=33cc33&text_color=CDE4AD&bg_color=0d1117" />
   <br>
+</div>
 
+## 📚 Estudando: 
+
+<div style="display: inline_block">
+
+  <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> 
+  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
 
 </div>
    
