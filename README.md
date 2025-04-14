@@ -1,4 +1,4 @@
-<div align="center"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=purple"/>
+<div align="center"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=8A2BE2"/>
   
 <img width="40%" src="https://github.com/nicolasmachad0/nicolasmachad0/assets/124478422/58961bd4-fde0-467c-8013-883cdea943df" alt="Zoro" align="center"><hr style="border: 2px solid black;">
 
